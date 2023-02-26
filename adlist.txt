@@ -1,1 +1,1 @@
-https://graph.facebook.com/
+graph.facebook.com
