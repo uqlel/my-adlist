@@ -1,1 +1,3 @@
 graph.facebook.com
+browser.sentry-cdn.com
+data.mistat.rus.xiaomi.com
