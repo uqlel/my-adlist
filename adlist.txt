@@ -1,2 +1,4 @@
 browser.sentry-cdn.com
 data.mistat.rus.xiaomi.com
+adtago.s3.amazonaws.com
+appmetrica.yandex.ru
