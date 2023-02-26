@@ -1,5 +1,2 @@
-graph.facebook.com
 browser.sentry-cdn.com
 data.mistat.rus.xiaomi.com
-b-graph.facebook.com
-graph.fbpigeon.com
